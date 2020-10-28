@@ -1,7 +1,9 @@
-                                          # css-sheet
+                                       # css-sheet
+###SELECTORS
+
 Universal Selector *
 
-TAG Selector h1, h2 ,h3,***tag name***
+TAG Selector h1, h2 ,h3 **tag name**
 
 Child Selector ul > li {}
 
@@ -55,3 +57,17 @@ Not a Specified Element Selector :not(p) {}
 Before Element .class::before {}
 
 After Element .class::before {}
+
+
+### BACKGROUND
+
+
+Background Image background-image: url()
+
+Background Repeat background-repeat: repeat-x | repeat-y | repeat | space | round | no-repeat
+
+Background Color background-color: #2AA9E0
+
+Background Position background-position: top | right | bottom | left | center
+
+Background Attachment background-attachment: scroll | fixed | local | initial | inherit
